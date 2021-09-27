@@ -1,3 +1,41 @@
+Montag, 04.10.21 9 - 13:20 Uhr
+
+9 - 10:30 Uhr
+Theorie: Einführung in XPath
+
+10 Minuten Pause
+
+10:40 - 12:00 Uhr
+Praxis I: Übungen in XPath
+
+10 Minuten Pause
+
+12:10 - 13:20 Uhr
+Fragen, eigene Übungen
+
+falls noch Zeit bleibt:
+Theorie: Einführung in XSLT
+
+Diestag, 05.10.21 9 - 13:20 Uhr
+
+9:00 - 9:30 Uhr
+Wiederholung: XPath (und ggf. XSLT)
+
+9:30 - 10:30
+Theorie: Einführung in XSLT I
+
+10 Minuten Pause
+
+10:40 - 11:20 Uhr
+Praxis I: Übungen in XSLT
+
+10 Minuten Pause
+
+11:30 - 13 Uhr
+Theorie: Einführung in XSLT II
+Praxis II: Übungen in XSLT
+Fragen, eigene Übungen
+
 - Namensräume
 - push/pull
 
@@ -5,6 +43,25 @@
   - XPath/XQuery builde/Baumeister
   - Transformationsszenario
   - XSLT Debugger
+
+XSLT
+• Erstellen von Vorgaben für das Ausgabedokument
+• Funktionsweise von Templates
+• Auf Knotenwerte zugreifen
+• Schleifen
+• Bedingungen aufstellen
+• Sortierungen
+• Nummerierungen
+
+XPath
+• Knotentypen
+• (Navigations-)Achsen
+• verkürzte/ausführliche Schreibweise
+• absolute/relative Lokalisierungspfade
+• Adressierung verschiedener Knotentypen
+• Prädikate
+• Vereinigungsmengen von Knotensets
+• XPath-Funktionen
 
 ## XPath
 
