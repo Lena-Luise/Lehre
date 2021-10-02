@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Frosch-Haiku</title>
+                <author>Matsuo Bashō</author>
+            	<editor>Roland Barthes</editor>
+            </titleStmt>
+        	<publicationStmt>
+        		<p>unpublished</p>
+        	</publicationStmt>
+        	<sourceDesc>
+                <bibl xml:id="s1">https://de.wikipedia.org/wiki/Haiku</bibl>
+                <bibl xml:id="s2">Roland Barthes: Das Reich der Zeichen. Suhrkamp, Frankfurt am Main
+                    1981, ISBN 3-518-11077-2.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head><title>Der Frosch</title></head>
+            <lg xml:lang="JP" xml:id="t1" source="#s1">
+                <l>furu ike ya</l>
+                <l><w>kawazu</w> tobikomu</l>
+                <l>mizu no oto</l>
+            </lg>
+            <lg xml:lang="DE" xml:id="t2" corresp="#t1" source="#s2">
+                <l>Der alte Weiher:</l>
+                <l>Ein <w>Frosch</w> springt hinein.</l>
+                <l>Oh! Das Geräusch des Wassers.</l>
+            </lg>
+        </body>
+    </text>
+</TEI>
