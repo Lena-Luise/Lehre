@@ -21,8 +21,9 @@
 <!--	hi Element entfernen	-->
 	
 	<xsl:template match="//hi[@rendition='#smcap']">
-<!--		<xsl:value-of select="if (count(//hi[@rendition='#smcap']) gt 3) then 'lang' else 'kurz'"/>	-->
-		<xsl:copy-of select="."/>	
+<!--		<xsl:value-of select="if (count(./preceding::hi[@rendition='#smcap']) gt 4) then 'MEHR als vier' else 'WENIGER'"/>	-->
+		<xsl:value-of select="."/>	
+<!--		<xsl:copy-of select="."/>	-->
 	</xsl:template>
 	
 	
